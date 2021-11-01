@@ -19,7 +19,7 @@ Thank you for your understanding.
 ## Installation
 
 ```bash
-brew tap exolnet/homebrew-deprecated
+brew tap zqhong/homebrew-deprecated
 ```
 
 ## Usage
