@@ -6,8 +6,8 @@ class PhpAT71 < Formula
 
   bottle do
     root_url "https://dl.bintray.com/exolnet/bottles-deprecated"
-    rebuild 1
-    sha256 "a0e705dc910cfcbc437c9a0811e085329ed212936bd21b4d6f616e08704ece1b" => :catalina
+    rebuild 1    
+    sha256 catalina:      "a0e705dc910cfcbc437c9a0811e085329ed212936bd21b4d6f616e08704ece1b"
   end
 
   keg_only :versioned_formula
